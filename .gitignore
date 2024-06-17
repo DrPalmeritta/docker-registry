@@ -2,6 +2,11 @@
 # Chart dependencies
 **/charts/*.tgz
 
+## Submodules ###
+# In case of .git directory included
+.git
+.gitignore
+
 ### macOS ###
 # General
 .DS_Store
